@@ -2219,24 +2219,7 @@
             "outputFile": "com.example.stockpls.app-merged_res-35:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/salmangroup/.gradle/caches/transforms-3/f5320477ac184a4d9e8172984fff081c/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593,687",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "120,204,288,384,486,588,682,771"
-                    },
-                    "to": {
-                        "startLines": "9,10,11,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "405,475,559,643,739,841,943,1037",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "470,554,638,734,836,938,1032,1121"
-                    }
-                },
-                {
-                    "source": "/Users/salmangroup/Desktop/stockpls/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/salmangroup/Documents/GitHub/stock_tracker/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -2252,6 +2235,23 @@
                         "endLines": "5,8",
                         "endColumns": "12,12",
                         "endOffsets": "231,400"
+                    }
+                },
+                {
+                    "source": "/Users/salmangroup/.gradle/caches/transforms-3/f5320477ac184a4d9e8172984fff081c/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "405,475,559,643,739,841,943,1037",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "470,554,638,734,836,938,1032,1121"
                     }
                 }
             ]
@@ -2914,24 +2914,7 @@
             "outputFile": "com.example.stockpls.app-merged_res-35:/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/salmangroup/.gradle/caches/transforms-3/2ecc080196ca2fbf46acb664d8f706ad/transformed/jetified-activity-1.8.1/res/values/values.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,59",
-                        "endOffsets": "92,152"
-                    },
-                    "to": {
-                        "startLines": "302,323",
-                        "startColumns": "4,4",
-                        "startOffsets": "18191,19278",
-                        "endColumns": "41,59",
-                        "endOffsets": "18228,19333"
-                    }
-                },
-                {
-                    "source": "/Users/salmangroup/Desktop/stockpls/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/salmangroup/Documents/GitHub/stock_tracker/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -2947,6 +2930,23 @@
                         "endLines": "1479,1482",
                         "endColumns": "12,12",
                         "endOffsets": "94420,94589"
+                    }
+                },
+                {
+                    "source": "/Users/salmangroup/.gradle/caches/transforms-3/2ecc080196ca2fbf46acb664d8f706ad/transformed/jetified-activity-1.8.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,59",
+                        "endOffsets": "92,152"
+                    },
+                    "to": {
+                        "startLines": "302,323",
+                        "startColumns": "4,4",
+                        "startOffsets": "18191,19278",
+                        "endColumns": "41,59",
+                        "endOffsets": "18228,19333"
                     }
                 },
                 {

@@ -4,24 +4,7 @@
             "outputFile": "com.example.stockpls.app-mergeDebugResources-33:/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/salmangroup/.gradle/caches/transforms-3/2ecc080196ca2fbf46acb664d8f706ad/transformed/jetified-activity-1.8.1/res/values/values.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,59",
-                        "endOffsets": "92,152"
-                    },
-                    "to": {
-                        "startLines": "302,323",
-                        "startColumns": "4,4",
-                        "startOffsets": "18191,19278",
-                        "endColumns": "41,59",
-                        "endOffsets": "18228,19333"
-                    }
-                },
-                {
-                    "source": "/Users/salmangroup/Desktop/stockpls/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/salmangroup/Documents/GitHub/stock_tracker/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -37,6 +20,23 @@
                         "endLines": "1479,1482",
                         "endColumns": "12,12",
                         "endOffsets": "94420,94589"
+                    }
+                },
+                {
+                    "source": "/Users/salmangroup/.gradle/caches/transforms-3/2ecc080196ca2fbf46acb664d8f706ad/transformed/jetified-activity-1.8.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,59",
+                        "endOffsets": "92,152"
+                    },
+                    "to": {
+                        "startLines": "302,323",
+                        "startColumns": "4,4",
+                        "startOffsets": "18191,19278",
+                        "endColumns": "41,59",
+                        "endOffsets": "18228,19333"
                     }
                 },
                 {

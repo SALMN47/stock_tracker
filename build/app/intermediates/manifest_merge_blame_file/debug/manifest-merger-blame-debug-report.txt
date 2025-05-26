@@ -13,11 +13,11 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/salmangroup/Desktop/stockpls/android/app/src/debug/AndroidManifest.xml:6:5-66
-15-->/Users/salmangroup/Desktop/stockpls/android/app/src/debug/AndroidManifest.xml:6:22-64
+15-->/Users/salmangroup/Documents/GitHub/stock_tracker/android/app/src/debug/AndroidManifest.xml:6:5-66
+15-->/Users/salmangroup/Documents/GitHub/stock_tracker/android/app/src/debug/AndroidManifest.xml:6:22-64
 16    <uses-permission android:name="android.permission.CAMERA" />
-16-->/Users/salmangroup/Desktop/stockpls/android/app/src/main/AndroidManifest.xml:2:1-61
-16-->/Users/salmangroup/Desktop/stockpls/android/app/src/main/AndroidManifest.xml:2:18-58
+16-->/Users/salmangroup/Documents/GitHub/stock_tracker/android/app/src/main/AndroidManifest.xml:2:1-61
+16-->/Users/salmangroup/Documents/GitHub/stock_tracker/android/app/src/main/AndroidManifest.xml:2:18-58
 17    <!--
 18 Required to query activities that can process text, see:
 19         https://developer.android.com/training/package-visibility and
@@ -26,25 +26,25 @@
 22         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
 23    -->
 24    <queries>
-24-->/Users/salmangroup/Desktop/stockpls/android/app/src/main/AndroidManifest.xml:40:5-45:15
+24-->/Users/salmangroup/Documents/GitHub/stock_tracker/android/app/src/main/AndroidManifest.xml:40:5-45:15
 25        <intent>
-25-->/Users/salmangroup/Desktop/stockpls/android/app/src/main/AndroidManifest.xml:41:9-44:18
+25-->/Users/salmangroup/Documents/GitHub/stock_tracker/android/app/src/main/AndroidManifest.xml:41:9-44:18
 26            <action android:name="android.intent.action.PROCESS_TEXT" />
-26-->/Users/salmangroup/Desktop/stockpls/android/app/src/main/AndroidManifest.xml:42:13-72
-26-->/Users/salmangroup/Desktop/stockpls/android/app/src/main/AndroidManifest.xml:42:21-70
+26-->/Users/salmangroup/Documents/GitHub/stock_tracker/android/app/src/main/AndroidManifest.xml:42:13-72
+26-->/Users/salmangroup/Documents/GitHub/stock_tracker/android/app/src/main/AndroidManifest.xml:42:21-70
 27
 28            <data android:mimeType="text/plain" />
-28-->/Users/salmangroup/Desktop/stockpls/android/app/src/main/AndroidManifest.xml:43:13-50
-28-->/Users/salmangroup/Desktop/stockpls/android/app/src/main/AndroidManifest.xml:43:19-48
+28-->/Users/salmangroup/Documents/GitHub/stock_tracker/android/app/src/main/AndroidManifest.xml:43:13-50
+28-->/Users/salmangroup/Documents/GitHub/stock_tracker/android/app/src/main/AndroidManifest.xml:43:19-48
 29        </intent>
 30    </queries>
 31
 32    <uses-feature
-32-->[:mobile_scanner] /Users/salmangroup/Desktop/stockpls/build/mobile_scanner/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-11:36
+32-->[:mobile_scanner] /Users/salmangroup/Documents/GitHub/stock_tracker/build/mobile_scanner/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-11:36
 33        android:name="android.hardware.camera"
-33-->[:mobile_scanner] /Users/salmangroup/Desktop/stockpls/build/mobile_scanner/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-47
+33-->[:mobile_scanner] /Users/salmangroup/Documents/GitHub/stock_tracker/build/mobile_scanner/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-47
 34        android:required="false" />
-34-->[:mobile_scanner] /Users/salmangroup/Desktop/stockpls/build/mobile_scanner/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-33
+34-->[:mobile_scanner] /Users/salmangroup/Documents/GitHub/stock_tracker/build/mobile_scanner/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-33
 35
 36    <permission
 36-->[androidx.core:core:1.13.1] /Users/salmangroup/.gradle/caches/transforms-3/ccdc6ae33fb27e0f1cc143693065784c/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47

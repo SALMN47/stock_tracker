@@ -1,0 +1,1 @@
+ /Users/salmangroup/Documents/GitHub/stock_tracker/.dart_tool/flutter_build/f1a5450e016ac81cfc2d80af78d8f75d/native_assets.yaml: 

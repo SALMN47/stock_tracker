@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:mobile_scanner/mobile_scanner.dart';
-import 'package:stockpls/barcodePage.dart';
-import 'package:stockpls/listpage.dart';
-import 'package:stockpls/notifier.dart';
-import 'package:stockpls/product_model.dart';
+import 'package:stockpls/function.dart/barcodePage.dart';
+import 'package:stockpls/pages/listpage.dart';
+import 'package:stockpls/function.dart/notifier.dart';
+import 'package:stockpls/models/product_model.dart';
 
 class ProductAddPage extends ConsumerStatefulWidget {
   final String barcode;

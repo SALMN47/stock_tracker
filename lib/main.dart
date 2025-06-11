@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:stockpls/add.dart';
-import 'package:stockpls/listpage.dart';
+import 'package:stockpls/pages/add.dart';
+import 'package:stockpls/pages/listpage.dart';
 
 void main() {
   runApp(

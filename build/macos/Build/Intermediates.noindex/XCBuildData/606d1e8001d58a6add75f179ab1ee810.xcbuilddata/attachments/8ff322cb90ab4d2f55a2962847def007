@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/mobile_scanner-master.dia",
+    "emit-module-dependencies" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/mobile_scanner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/mobile_scanner-master-emit-module.dia",
+    "swift-dependencies" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/mobile_scanner-master.swiftdeps"
+  },
+  "/Users/salmangroup/.pub-cache/hosted/pub.dev/mobile_scanner-6.0.10/macos/mobile_scanner/Sources/mobile_scanner/DetectionSpeed.swift" : {
+    "const-values" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/DetectionSpeed.swiftconstvalues",
+    "dependencies" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/DetectionSpeed.d",
+    "diagnostics" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/DetectionSpeed.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/DetectionSpeed.o",
+    "llvm-bc" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/DetectionSpeed.bc",
+    "object" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/DetectionSpeed.o",
+    "swift-dependencies" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/DetectionSpeed.swiftdeps",
+    "swiftmodule" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/DetectionSpeed~partial.swiftmodule"
+  },
+  "/Users/salmangroup/.pub-cache/hosted/pub.dev/mobile_scanner-6.0.10/macos/mobile_scanner/Sources/mobile_scanner/MobileScannerErrorCodes.swift" : {
+    "const-values" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerErrorCodes.swiftconstvalues",
+    "dependencies" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerErrorCodes.d",
+    "diagnostics" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerErrorCodes.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerErrorCodes.o",
+    "llvm-bc" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerErrorCodes.bc",
+    "object" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerErrorCodes.o",
+    "swift-dependencies" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerErrorCodes.swiftdeps",
+    "swiftmodule" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerErrorCodes~partial.swiftmodule"
+  },
+  "/Users/salmangroup/.pub-cache/hosted/pub.dev/mobile_scanner-6.0.10/macos/mobile_scanner/Sources/mobile_scanner/MobileScannerPlugin.swift" : {
+    "const-values" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerPlugin.swiftconstvalues",
+    "dependencies" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerPlugin.d",
+    "diagnostics" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerPlugin.o",
+    "llvm-bc" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerPlugin.bc",
+    "object" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerPlugin.o",
+    "swift-dependencies" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerPlugin.swiftdeps",
+    "swiftmodule" : "/Users/salmangroup/Documents/GitHub/stock_tracker/build/macos/Build/Intermediates.noindex/Pods.build/Debug/mobile_scanner.build/Objects-normal/arm64/MobileScannerPlugin~partial.swiftmodule"
+  }
+}

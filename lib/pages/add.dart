@@ -163,10 +163,15 @@ class _ProductAddPageState extends ConsumerState<ProductAddPage> {
         ),
         IconButton(
             onPressed: () {
-              Navigator.push(
-                context,
-                MaterialPageRoute(
-                  builder: (context) => BarcodeScannerPage(),
+              showModalBottomSheet(
+                context: context,
+                isScrollControlled: true,
+                backgroundColor: Colors.transparent,
+                builder: (context) => DraggableScrollableSheet(
+                  initialChildSize: 0.7,
+                  minChildSize: 0.5,
+                  maxChildSize: 0.9,
+                  builder: (context, scrollController) => BarcodeScannerModal(),
                 ),
               );
             },
